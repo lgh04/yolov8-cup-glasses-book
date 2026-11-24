@@ -1,0 +1,14 @@
+names:
+- book
+- cup
+- glasses
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: cup-glasses-book
+  url: https://universe.roboflow.com/s-workspace-chuo4/cup-glasses-book/dataset/1
+  version: 1
+  workspace: s-workspace-chuo4
+test: ../test/images
+train: ../train/images
+val: ../valid/images
